@@ -4,7 +4,7 @@ An App to show Wallpapers using A tinder like swipe able card stack component wi
 
 
 # download
-[Just Quotes](https://github.com/vimaltiwari2612/JustWallpapers/blob/master/Just%20Wallpapers.apk?raw=true)
+[Just Wallpapers](https://github.com/vimaltiwari2612/JustWallpapers/blob/master/Just%20Wallpapers.apk?raw=true)
 
 
 # screenshots
