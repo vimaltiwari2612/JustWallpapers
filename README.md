@@ -8,7 +8,7 @@ An App to show Wallpapers using A tinder like swipe able card stack component wi
 
 
 # screenshots
-![screenshot](https://github.com/vimaltiwari2612/JustWallpapers/blob/master/1.PNG)
+![screenshot](https://github.com/vimaltiwari2612/JustWallpapers/blob/master/1.png)
 
 # sources
 A big thanks to API source https://picsum.photos/
